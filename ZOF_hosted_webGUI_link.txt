@@ -1,4 +1,4 @@
-Name: <Your Full Name>
-Matric number: <Your Matric No.>
-Live URL: <https://your-app-name.onrender.com>
-GitHub repo: https://github.com/<your-username>/<repo-name>
+Name: Cos-Anyikwa Ikechukwu Augustine
+Matric number: 22CG031846
+Live URL: https://zof-project-ghn7.onrender.com/
+GitHub repo: https://github.com/aikay2/ZOF_Project
